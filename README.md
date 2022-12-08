@@ -2,7 +2,7 @@
 
 참고 [Make A Svelte Todo App](https://joyofcode.xyz/svelte-todo-app)
 
-![svelte-todo-app](/static/svelte-todo-app.png)
+![svelte-todo-app](/static/svelte-todo-app-crunch.png)
 
 ## Getting Started
 
